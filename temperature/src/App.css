@@ -10,8 +10,8 @@ body {
 }
 
 .app-container {
-  height: 400px;
-  width: 300px;
+  height: 800px;
+  width: 600px;
   background: #2b5870;
   border-radius: 20px;
   box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
