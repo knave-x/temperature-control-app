@@ -17,6 +17,7 @@ body {
   box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
 }
 
+
 .temperature-display-container {
   display: flex;
   justify-content: center;
